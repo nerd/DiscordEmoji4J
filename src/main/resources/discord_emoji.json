@@ -1,0 +1,6978 @@
+{
+  "emojis" : [ {
+    "aliases" : [ "grinning" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE00",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "grimacing" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE2C",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "grin" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE01",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "joy" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE02",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "smiley" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE03",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "smile" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE04",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "sweat_smile" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE05",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "laughing", "satisfied" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE06",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "innocent" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE07",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "wink" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE09",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "blush" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE0A",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "slight_smile", "slightly_smiling_face" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE42",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "upside_down", "upside_down_face" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE43",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "relaxed" ],
+    "category" : "PEOPLE",
+    "unicode" : "☺",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "yum" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE0B",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "relieved" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE0C",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "heart_eyes" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE0D",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "kissing_heart" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE18",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "kissing" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE17",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "kissing_smiling_eyes" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE19",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "kissing_closed_eyes" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE1A",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "stuck_out_tongue_winking_eye" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE1C",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "stuck_out_tongue_closed_eyes" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE1D",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "stuck_out_tongue" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE1B",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "money_mouth", "money_mouth_face" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83E\uDD11",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "nerd", "nerd_face" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83E\uDD13",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "sunglasses" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE0E",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "hugging", "hugging_face" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83E\uDD17",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "smirk" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE0F",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "no_mouth" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE36",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "neutral_face" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE10",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "expressionless" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE11",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "unamused" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE12",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "rolling_eyes", "face_with_rolling_eyes" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE44",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "thinking", "thinking_face" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83E\uDD14",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flushed" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE33",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "disappointed" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE1E",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "worried" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE1F",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "angry" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE20",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "rage" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE21",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "pensive" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE14",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "confused" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE15",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "slight_frown", "slightly_frowning_face" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE41",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "frowning2", "white_frowning_face" ],
+    "category" : "PEOPLE",
+    "unicode" : "☹",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "persevere" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE23",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "confounded" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE16",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "tired_face" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE2B",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "weary" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE29",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "triumph" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE24",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "open_mouth" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE2E",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "scream" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE31",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "fearful" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE28",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "cold_sweat" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE30",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "hushed" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE2F",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "frowning" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE26",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "anguished" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE27",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "cry" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE22",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "disappointed_relieved" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE25",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "sleepy" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE2A",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "sweat" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE13",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "sob" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE2D",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "dizzy_face" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE35",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "astonished" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE32",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "zipper_mouth", "zipper_mouth_face" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83E\uDD10",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "mask" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE37",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "thermometer_face", "face_with_thermometer" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83E\uDD12",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "head_bandage", "face_with_head_bandage" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83E\uDD15",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "sleeping" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE34",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "zzz" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDCA4",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "poop", "shit", "hankey", "poo" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDCA9",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "smiling_imp" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE08",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "imp" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC7F",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "japanese_ogre" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC79",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "japanese_goblin" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC7A",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "skull", "skeleton" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC80",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "ghost" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC7B",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "alien" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC7D",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "robot", "robot_face" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83E\uDD16",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "smiley_cat" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE3A",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "smile_cat" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE38",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "joy_cat" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE39",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "heart_eyes_cat" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE3B",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "smirk_cat" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE3C",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "kissing_cat" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE3D",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "scream_cat" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE40",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "crying_cat_face" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE3F",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "pouting_cat" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE3E",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "raised_hands" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE4C",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "clap" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC4F",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "wave" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC4B",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "thumbsup", "+1", "thumbup" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC4D",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "thumbsdown", "-1", "thumbdown" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC4E",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "punch" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC4A",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "fist" ],
+    "category" : "PEOPLE",
+    "unicode" : "✊",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "v" ],
+    "category" : "PEOPLE",
+    "unicode" : "✌",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "ok_hand" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC4C",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "raised_hand" ],
+    "category" : "PEOPLE",
+    "unicode" : "✋",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "open_hands" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC50",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "muscle" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDCAA",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "pray" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE4F",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "point_up" ],
+    "category" : "PEOPLE",
+    "unicode" : "☝",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "point_up_2" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC46",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "point_down" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC47",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "point_left" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC48",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "point_right" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC49",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "middle_finger", "reversed_hand_with_middle_finger_extended" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDD95",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "hand_splayed", "raised_hand_with_fingers_splayed" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDD90",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "metal", "sign_of_the_horns" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83E\uDD18",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "vulcan", "raised_hand_with_part_between_middle_and_ring_fingers" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDD96",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "writing_hand" ],
+    "category" : "PEOPLE",
+    "unicode" : "✍",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "nail_care" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC85",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "lips" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC44",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "tongue" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC45",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "ear" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC42",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "nose" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC43",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "eye" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC41",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "eyes" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC40",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "bust_in_silhouette" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC64",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "busts_in_silhouette" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC65",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "speaking_head", "speaking_head_in_silhouette" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDDE3",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "baby" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC76",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "boy" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC66",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "girl" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC67",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "man" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC68",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "woman" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC69",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "person_with_blond_hair" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC71",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "older_man" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC74",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "older_woman", "grandma" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC75",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "man_with_gua_pi_mao" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC72",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "man_with_turban" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC73",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "cop" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC6E",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "construction_worker" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC77",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "guardsman" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC82",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "spy", "sleuth_or_spy" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDD75",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "santa" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83C\uDF85",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "angel" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC7C",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "princess" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC78",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "bride_with_veil" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC70",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "walking" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDEB6",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "runner" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83C\uDFC3",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "dancer" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC83",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "dancers" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC6F",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "couple" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC6B",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "two_men_holding_hands" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC6C",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "two_women_holding_hands" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC6D",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "bow" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE47",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "information_desk_person" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC81",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "no_good" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE45",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "ok_woman" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE46",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "raising_hand" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE4B",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "person_with_pouting_face" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE4E",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "person_frowning" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDE4D",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "haircut" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC87",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "massage" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC86",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "couple_with_heart" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC91",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "couple_ww", "couple_with_heart_ww" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC69‍❤️‍\uD83D\uDC69",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "couple_mm", "couple_with_heart_mm" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC68‍❤️‍\uD83D\uDC68",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "couplekiss" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC8F",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "kiss_ww", "couplekiss_ww" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC69‍❤️‍\uD83D\uDC8B‍\uD83D\uDC69",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "kiss_mm", "couplekiss_mm" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC68‍❤️‍\uD83D\uDC8B‍\uD83D\uDC68",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "family" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC6A",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "family_mwg" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC68‍\uD83D\uDC69‍\uD83D\uDC67",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "family_mwgb" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC68‍\uD83D\uDC69‍\uD83D\uDC67‍\uD83D\uDC66",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "family_mwbb" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC68‍\uD83D\uDC69‍\uD83D\uDC66‍\uD83D\uDC66",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "family_mwgg" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC68‍\uD83D\uDC69‍\uD83D\uDC67‍\uD83D\uDC67",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "family_wwb" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC69‍\uD83D\uDC69‍\uD83D\uDC66",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "family_wwg" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC69‍\uD83D\uDC69‍\uD83D\uDC67",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "family_wwgb" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC69‍\uD83D\uDC69‍\uD83D\uDC67‍\uD83D\uDC66",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "family_wwbb" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC69‍\uD83D\uDC69‍\uD83D\uDC66‍\uD83D\uDC66",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "family_wwgg" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC69‍\uD83D\uDC69‍\uD83D\uDC67‍\uD83D\uDC67",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "family_mmb" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC68‍\uD83D\uDC68‍\uD83D\uDC66",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "family_mmg" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC68‍\uD83D\uDC68‍\uD83D\uDC67",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "family_mmgb" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC68‍\uD83D\uDC68‍\uD83D\uDC67‍\uD83D\uDC66",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "family_mmbb" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC68‍\uD83D\uDC68‍\uD83D\uDC66‍\uD83D\uDC66",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "family_mmgg" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC68‍\uD83D\uDC68‍\uD83D\uDC67‍\uD83D\uDC67",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "womans_clothes" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC5A",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "shirt" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC55",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "jeans" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC56",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "necktie" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC54",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "dress" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC57",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "bikini" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC59",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "kimono" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC58",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "lipstick" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC84",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "kiss" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC8B",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "footprints" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC63",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "high_heel" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC60",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "sandal" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC61",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "boot" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC62",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "mans_shoe" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC5E",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "athletic_shoe" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC5F",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "womans_hat" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC52",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "tophat" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83C\uDFA9",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "helmet_with_cross", "helmet_with_white_cross" ],
+    "category" : "PEOPLE",
+    "unicode" : "⛑",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "mortar_board" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83C\uDF93",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "crown" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC51",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "school_satchel" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83C\uDF92",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "pouch" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC5D",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "purse" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC5B",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "handbag" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC5C",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "briefcase" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDCBC",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "eyeglasses" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC53",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "dark_sunglasses" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDD76",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "ring" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDC8D",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "closed_umbrella" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83C\uDF02",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "cowboy", "face_with_cowboy_hat" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83E\uDD20",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "clown", "clown_face" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83E\uDD21",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "nauseated_face", "sick" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83E\uDD22",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "rofl", "rolling_on_the_floor_laughing" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83E\uDD23",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "drooling_face", "drool" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83E\uDD24",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "lying_face", "liar" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83E\uDD25",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "sneezing_face", "sneeze" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83E\uDD27",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "prince" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83E\uDD34",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "man_in_tuxedo" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83E\uDD35",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "mrs_claus", "mother_christmas" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83E\uDD36",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "face_palm", "facepalm" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83E\uDD26",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "shrug" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83E\uDD37",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "pregnant_woman", "expecting_woman" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83E\uDD30",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "selfie" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83E\uDD33",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "man_dancing", "male_dancer" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83D\uDD7A",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "call_me", "call_me_hand" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83E\uDD19",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "raised_back_of_hand", "back_of_hand" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83E\uDD1A",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "left_facing_fist", "left_fist" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83E\uDD1B",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "right_facing_fist", "right_fist" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83E\uDD1C",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "handshake", "shaking_hands" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83E\uDD1D",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "fingers_crossed", "hand_with_index_and_middle_finger_crossed" ],
+    "category" : "PEOPLE",
+    "unicode" : "\uD83E\uDD1E",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "dog" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDC36",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "cat" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDC31",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "mouse" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDC2D",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "hamster" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDC39",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "rabbit" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDC30",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "bear" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDC3B",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "panda_face" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDC3C",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "koala" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDC28",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "tiger" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDC2F",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "lion_face", "lion" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83E\uDD81",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "cow" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDC2E",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "pig" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDC37",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "pig_nose" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDC3D",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "frog" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDC38",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "octopus" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDC19",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "monkey_face" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDC35",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "see_no_evil" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDE48",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "hear_no_evil" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDE49",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "speak_no_evil" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDE4A",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "monkey" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDC12",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "chicken" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDC14",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "penguin" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDC27",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "bird" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDC26",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "baby_chick" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDC24",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "hatching_chick" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDC23",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "hatched_chick" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDC25",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "wolf" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDC3A",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "boar" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDC17",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "horse" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDC34",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "unicorn", "unicorn_face" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83E\uDD84",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "bee" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDC1D",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "bug" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDC1B",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "snail" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDC0C",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "beetle" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDC1E",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "ant" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDC1C",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "spider" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDD77",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "scorpion" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83E\uDD82",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "crab" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83E\uDD80",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "snake" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDC0D",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "turtle" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDC22",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "tropical_fish" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDC20",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "fish" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDC1F",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "blowfish" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDC21",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "dolphin" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDC2C",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "whale" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDC33",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "whale2" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDC0B",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "crocodile" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDC0A",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "leopard" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDC06",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "tiger2" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDC05",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "water_buffalo" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDC03",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "ox" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDC02",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "cow2" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDC04",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "dromedary_camel" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDC2A",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "camel" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDC2B",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "elephant" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDC18",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "goat" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDC10",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "ram" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDC0F",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "sheep" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDC11",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "racehorse" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDC0E",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "pig2" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDC16",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "rat" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDC00",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "mouse2" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDC01",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "rooster" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDC13",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "turkey" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83E\uDD83",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "dove", "dove_of_peace" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDD4A",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "dog2" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDC15",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "poodle" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDC29",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "cat2" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDC08",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "rabbit2" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDC07",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "chipmunk" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDC3F",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "feet", "paw_prints" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDC3E",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "dragon" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDC09",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "dragon_face" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDC32",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "cactus" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83C\uDF35",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "christmas_tree" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83C\uDF84",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "evergreen_tree" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83C\uDF32",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "deciduous_tree" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83C\uDF33",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "palm_tree" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83C\uDF34",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "seedling" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83C\uDF31",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "herb" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83C\uDF3F",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "shamrock" ],
+    "category" : "NATURE",
+    "unicode" : "☘",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "four_leaf_clover" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83C\uDF40",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "bamboo" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83C\uDF8D",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "tanabata_tree" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83C\uDF8B",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "leaves" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83C\uDF43",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "fallen_leaf" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83C\uDF42",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "maple_leaf" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83C\uDF41",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "ear_of_rice" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83C\uDF3E",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "hibiscus" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83C\uDF3A",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "sunflower" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83C\uDF3B",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "rose" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83C\uDF39",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "tulip" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83C\uDF37",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "blossom" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83C\uDF3C",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "cherry_blossom" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83C\uDF38",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "bouquet" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDC90",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "mushroom" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83C\uDF44",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "chestnut" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83C\uDF30",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "jack_o_lantern" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83C\uDF83",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "shell" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDC1A",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "spider_web" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDD78",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "earth_americas" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83C\uDF0E",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "earth_africa" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83C\uDF0D",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "earth_asia" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83C\uDF0F",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "full_moon" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83C\uDF15",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "waning_gibbous_moon" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83C\uDF16",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "last_quarter_moon" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83C\uDF17",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "waning_crescent_moon" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83C\uDF18",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "new_moon" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83C\uDF11",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "waxing_crescent_moon" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83C\uDF12",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "first_quarter_moon" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83C\uDF13",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "waxing_gibbous_moon" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83C\uDF14",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "new_moon_with_face" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83C\uDF1A",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "full_moon_with_face" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83C\uDF1D",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "first_quarter_moon_with_face" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83C\uDF1B",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "last_quarter_moon_with_face" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83C\uDF1C",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "sun_with_face" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83C\uDF1E",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "crescent_moon" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83C\uDF19",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "star" ],
+    "category" : "NATURE",
+    "unicode" : "⭐",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "star2" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83C\uDF1F",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "dizzy" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDCAB",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "sparkles" ],
+    "category" : "NATURE",
+    "unicode" : "✨",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "comet" ],
+    "category" : "NATURE",
+    "unicode" : "☄",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "sunny" ],
+    "category" : "NATURE",
+    "unicode" : "☀",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "white_sun_small_cloud", "white_sun_with_small_cloud" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83C\uDF24",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "partly_sunny" ],
+    "category" : "NATURE",
+    "unicode" : "⛅",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "white_sun_cloud", "white_sun_behind_cloud" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83C\uDF25",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "white_sun_rain_cloud", "white_sun_behind_cloud_with_rain" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83C\uDF26",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "cloud" ],
+    "category" : "NATURE",
+    "unicode" : "☁",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "cloud_rain", "cloud_with_rain" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83C\uDF27",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "thunder_cloud_rain", "thunder_cloud_and_rain" ],
+    "category" : "NATURE",
+    "unicode" : "⛈",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "cloud_lightning", "cloud_with_lightning" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83C\uDF29",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "zap" ],
+    "category" : "NATURE",
+    "unicode" : "⚡",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "fire", "flame" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDD25",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "boom" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDCA5",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "snowflake" ],
+    "category" : "NATURE",
+    "unicode" : "❄",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "cloud_snow", "cloud_with_snow" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83C\uDF28",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "snowman2" ],
+    "category" : "NATURE",
+    "unicode" : "☃",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "snowman" ],
+    "category" : "NATURE",
+    "unicode" : "⛄",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "wind_blowing_face" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83C\uDF2C",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "dash" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDCA8",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "cloud_tornado", "cloud_with_tornado" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83C\uDF2A",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "fog" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83C\uDF2B",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "umbrella2" ],
+    "category" : "NATURE",
+    "unicode" : "☂",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "umbrella" ],
+    "category" : "NATURE",
+    "unicode" : "☔",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "droplet" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDCA7",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "sweat_drops" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83D\uDCA6",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "ocean" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83C\uDF0A",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "eagle" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83E\uDD85",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "duck" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83E\uDD86",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "bat" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83E\uDD87",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "shark" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83E\uDD88",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "owl" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83E\uDD89",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "fox", "fox_face" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83E\uDD8A",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "butterfly" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83E\uDD8B",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "deer" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83E\uDD8C",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "gorilla" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83E\uDD8D",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "lizard" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83E\uDD8E",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "rhino", "rhinoceros" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83E\uDD8F",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "wilted_rose", "wilted_flower" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83E\uDD40",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "shrimp" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83E\uDD90",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "squid" ],
+    "category" : "NATURE",
+    "unicode" : "\uD83E\uDD91",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "green_apple" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83C\uDF4F",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "apple" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83C\uDF4E",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "pear" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83C\uDF50",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "tangerine" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83C\uDF4A",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "lemon" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83C\uDF4B",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "banana" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83C\uDF4C",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "watermelon" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83C\uDF49",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "grapes" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83C\uDF47",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "strawberry" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83C\uDF53",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "melon" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83C\uDF48",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "cherries" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83C\uDF52",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "peach" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83C\uDF51",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "pineapple" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83C\uDF4D",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "tomato" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83C\uDF45",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "eggplant" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83C\uDF46",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "hot_pepper" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83C\uDF36",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "corn" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83C\uDF3D",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "sweet_potato" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83C\uDF60",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "honey_pot" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83C\uDF6F",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "bread" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83C\uDF5E",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "cheese", "cheese_wedge" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83E\uDDC0",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "poultry_leg" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83C\uDF57",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "meat_on_bone" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83C\uDF56",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "fried_shrimp" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83C\uDF64",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "cooking" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83C\uDF73",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "hamburger" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83C\uDF54",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "fries" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83C\uDF5F",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "hotdog", "hot_dog" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83C\uDF2D",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "pizza" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83C\uDF55",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "spaghetti" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83C\uDF5D",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "taco" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83C\uDF2E",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "burrito" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83C\uDF2F",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "ramen" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83C\uDF5C",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "stew" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83C\uDF72",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "fish_cake" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83C\uDF65",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "sushi" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83C\uDF63",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "bento" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83C\uDF71",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "curry" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83C\uDF5B",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "rice_ball" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83C\uDF59",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "rice" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83C\uDF5A",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "rice_cracker" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83C\uDF58",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "oden" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83C\uDF62",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "dango" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83C\uDF61",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "shaved_ice" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83C\uDF67",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "ice_cream" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83C\uDF68",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "icecream" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83C\uDF66",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "cake" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83C\uDF70",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "birthday" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83C\uDF82",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "custard", "pudding", "flan" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83C\uDF6E",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "candy" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83C\uDF6C",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "lollipop" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83C\uDF6D",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "chocolate_bar" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83C\uDF6B",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "popcorn" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83C\uDF7F",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "doughnut" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83C\uDF69",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "cookie" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83C\uDF6A",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "beer" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83C\uDF7A",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "beers" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83C\uDF7B",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "wine_glass" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83C\uDF77",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "cocktail" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83C\uDF78",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "tropical_drink" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83C\uDF79",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "champagne", "bottle_with_popping_cork" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83C\uDF7E",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "sake" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83C\uDF76",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "tea" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83C\uDF75",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "coffee" ],
+    "category" : "FOOD",
+    "unicode" : "☕",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "baby_bottle" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83C\uDF7C",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "fork_and_knife" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83C\uDF74",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "fork_knife_plate", "fork_and_knife_with_plate" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83C\uDF7D",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "croissant" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83E\uDD50",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "avocado" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83E\uDD51",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "cucumber" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83E\uDD52",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "bacon" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83E\uDD53",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "potato" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83E\uDD54",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "carrot" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83E\uDD55",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "french_bread", "baguette_bread" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83E\uDD56",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "salad", "green_salad" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83E\uDD57",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "shallow_pan_of_food", "paella" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83E\uDD58",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "stuffed_flatbread", "stuffed_pita" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83E\uDD59",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "champagne_glass", "clinking_glass" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83E\uDD42",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "tumbler_glass", "whisky" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83E\uDD43",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "spoon" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83E\uDD44",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "egg" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83E\uDD5A",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "milk", "glass_of_milk" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83E\uDD5B",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "peanuts", "shelled_peanut" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83E\uDD5C",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "kiwi", "kiwifruit" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83E\uDD5D",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "pancakes" ],
+    "category" : "FOOD",
+    "unicode" : "\uD83E\uDD5E",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "soccer" ],
+    "category" : "ACTIVITY",
+    "unicode" : "⚽",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "basketball" ],
+    "category" : "ACTIVITY",
+    "unicode" : "\uD83C\uDFC0",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "football" ],
+    "category" : "ACTIVITY",
+    "unicode" : "\uD83C\uDFC8",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "baseball" ],
+    "category" : "ACTIVITY",
+    "unicode" : "⚾",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "tennis" ],
+    "category" : "ACTIVITY",
+    "unicode" : "\uD83C\uDFBE",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "volleyball" ],
+    "category" : "ACTIVITY",
+    "unicode" : "\uD83C\uDFD0",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "rugby_football" ],
+    "category" : "ACTIVITY",
+    "unicode" : "\uD83C\uDFC9",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "8ball" ],
+    "category" : "ACTIVITY",
+    "unicode" : "\uD83C\uDFB1",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "golf" ],
+    "category" : "ACTIVITY",
+    "unicode" : "⛳",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "golfer" ],
+    "category" : "ACTIVITY",
+    "unicode" : "\uD83C\uDFCC",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "ping_pong", "table_tennis" ],
+    "category" : "ACTIVITY",
+    "unicode" : "\uD83C\uDFD3",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "badminton" ],
+    "category" : "ACTIVITY",
+    "unicode" : "\uD83C\uDFF8",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "hockey" ],
+    "category" : "ACTIVITY",
+    "unicode" : "\uD83C\uDFD2",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "field_hockey" ],
+    "category" : "ACTIVITY",
+    "unicode" : "\uD83C\uDFD1",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "cricket", "cricket_bat_ball" ],
+    "category" : "ACTIVITY",
+    "unicode" : "\uD83C\uDFCF",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "ski" ],
+    "category" : "ACTIVITY",
+    "unicode" : "\uD83C\uDFBF",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "skier" ],
+    "category" : "ACTIVITY",
+    "unicode" : "⛷",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "snowboarder" ],
+    "category" : "ACTIVITY",
+    "unicode" : "\uD83C\uDFC2",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "ice_skate" ],
+    "category" : "ACTIVITY",
+    "unicode" : "⛸",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "bow_and_arrow", "archery" ],
+    "category" : "ACTIVITY",
+    "unicode" : "\uD83C\uDFF9",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "fishing_pole_and_fish" ],
+    "category" : "ACTIVITY",
+    "unicode" : "\uD83C\uDFA3",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "rowboat" ],
+    "category" : "ACTIVITY",
+    "unicode" : "\uD83D\uDEA3",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "swimmer" ],
+    "category" : "ACTIVITY",
+    "unicode" : "\uD83C\uDFCA",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "surfer" ],
+    "category" : "ACTIVITY",
+    "unicode" : "\uD83C\uDFC4",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "bath" ],
+    "category" : "ACTIVITY",
+    "unicode" : "\uD83D\uDEC0",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "basketball_player", "person_with_ball" ],
+    "category" : "ACTIVITY",
+    "unicode" : "⛹",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "lifter", "weight_lifter" ],
+    "category" : "ACTIVITY",
+    "unicode" : "\uD83C\uDFCB",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "bicyclist" ],
+    "category" : "ACTIVITY",
+    "unicode" : "\uD83D\uDEB4",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "mountain_bicyclist" ],
+    "category" : "ACTIVITY",
+    "unicode" : "\uD83D\uDEB5",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "horse_racing" ],
+    "category" : "ACTIVITY",
+    "unicode" : "\uD83C\uDFC7",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "levitate", "man_in_business_suit_levitating" ],
+    "category" : "ACTIVITY",
+    "unicode" : "\uD83D\uDD74",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "trophy" ],
+    "category" : "ACTIVITY",
+    "unicode" : "\uD83C\uDFC6",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "running_shirt_with_sash" ],
+    "category" : "ACTIVITY",
+    "unicode" : "\uD83C\uDFBD",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "medal", "sports_medal" ],
+    "category" : "ACTIVITY",
+    "unicode" : "\uD83C\uDFC5",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "military_medal" ],
+    "category" : "ACTIVITY",
+    "unicode" : "\uD83C\uDF96",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "reminder_ribbon" ],
+    "category" : "ACTIVITY",
+    "unicode" : "\uD83C\uDF97",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "rosette" ],
+    "category" : "ACTIVITY",
+    "unicode" : "\uD83C\uDFF5",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "ticket" ],
+    "category" : "ACTIVITY",
+    "unicode" : "\uD83C\uDFAB",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "tickets", "admission_tickets" ],
+    "category" : "ACTIVITY",
+    "unicode" : "\uD83C\uDF9F",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "performing_arts" ],
+    "category" : "ACTIVITY",
+    "unicode" : "\uD83C\uDFAD",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "art" ],
+    "category" : "ACTIVITY",
+    "unicode" : "\uD83C\uDFA8",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "circus_tent" ],
+    "category" : "ACTIVITY",
+    "unicode" : "\uD83C\uDFAA",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "microphone" ],
+    "category" : "ACTIVITY",
+    "unicode" : "\uD83C\uDFA4",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "headphones" ],
+    "category" : "ACTIVITY",
+    "unicode" : "\uD83C\uDFA7",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "musical_score" ],
+    "category" : "ACTIVITY",
+    "unicode" : "\uD83C\uDFBC",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "musical_keyboard" ],
+    "category" : "ACTIVITY",
+    "unicode" : "\uD83C\uDFB9",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "saxophone" ],
+    "category" : "ACTIVITY",
+    "unicode" : "\uD83C\uDFB7",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "trumpet" ],
+    "category" : "ACTIVITY",
+    "unicode" : "\uD83C\uDFBA",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "guitar" ],
+    "category" : "ACTIVITY",
+    "unicode" : "\uD83C\uDFB8",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "violin" ],
+    "category" : "ACTIVITY",
+    "unicode" : "\uD83C\uDFBB",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "clapper" ],
+    "category" : "ACTIVITY",
+    "unicode" : "\uD83C\uDFAC",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "video_game" ],
+    "category" : "ACTIVITY",
+    "unicode" : "\uD83C\uDFAE",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "space_invader" ],
+    "category" : "ACTIVITY",
+    "unicode" : "\uD83D\uDC7E",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "dart" ],
+    "category" : "ACTIVITY",
+    "unicode" : "\uD83C\uDFAF",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "game_die" ],
+    "category" : "ACTIVITY",
+    "unicode" : "\uD83C\uDFB2",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "slot_machine" ],
+    "category" : "ACTIVITY",
+    "unicode" : "\uD83C\uDFB0",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "bowling" ],
+    "category" : "ACTIVITY",
+    "unicode" : "\uD83C\uDFB3",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "cartwheel", "person_doing_cartwheel" ],
+    "category" : "ACTIVITY",
+    "unicode" : "\uD83E\uDD38",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "juggling", "juggler" ],
+    "category" : "ACTIVITY",
+    "unicode" : "\uD83E\uDD39",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "wrestlers", "wrestling" ],
+    "category" : "ACTIVITY",
+    "unicode" : "\uD83E\uDD3C",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "boxing_glove", "boxing_gloves" ],
+    "category" : "ACTIVITY",
+    "unicode" : "\uD83E\uDD4A",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "martial_arts_uniform", "karate_uniform" ],
+    "category" : "ACTIVITY",
+    "unicode" : "\uD83E\uDD4B",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "water_polo" ],
+    "category" : "ACTIVITY",
+    "unicode" : "\uD83E\uDD3D",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "handball" ],
+    "category" : "ACTIVITY",
+    "unicode" : "\uD83E\uDD3E",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "goal", "goal_net" ],
+    "category" : "ACTIVITY",
+    "unicode" : "\uD83E\uDD45",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "fencer", "fencing" ],
+    "category" : "ACTIVITY",
+    "unicode" : "\uD83E\uDD3A",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "first_place", "first_place_medal" ],
+    "category" : "ACTIVITY",
+    "unicode" : "\uD83E\uDD47",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "second_place", "second_place_medal" ],
+    "category" : "ACTIVITY",
+    "unicode" : "\uD83E\uDD48",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "third_place", "third_place_medal" ],
+    "category" : "ACTIVITY",
+    "unicode" : "\uD83E\uDD49",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "drum", "drum_with_drumsticks" ],
+    "category" : "ACTIVITY",
+    "unicode" : "\uD83E\uDD41",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "red_car" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83D\uDE97",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "taxi" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83D\uDE95",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "blue_car" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83D\uDE99",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "bus" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83D\uDE8C",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "trolleybus" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83D\uDE8E",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "race_car", "racing_car" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83C\uDFCE",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "police_car" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83D\uDE93",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "ambulance" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83D\uDE91",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "fire_engine" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83D\uDE92",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "minibus" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83D\uDE90",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "truck" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83D\uDE9A",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "articulated_lorry" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83D\uDE9B",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "tractor" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83D\uDE9C",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "motorcycle", "racing_motorcycle" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83C\uDFCD",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "bike" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83D\uDEB2",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "rotating_light" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83D\uDEA8",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "oncoming_police_car" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83D\uDE94",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "oncoming_bus" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83D\uDE8D",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "oncoming_automobile" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83D\uDE98",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "oncoming_taxi" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83D\uDE96",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "aerial_tramway" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83D\uDEA1",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "mountain_cableway" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83D\uDEA0",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "suspension_railway" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83D\uDE9F",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "railway_car" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83D\uDE83",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "train" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83D\uDE8B",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "monorail" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83D\uDE9D",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "bullettrain_side" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83D\uDE84",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "bullettrain_front" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83D\uDE85",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "light_rail" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83D\uDE88",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "mountain_railway" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83D\uDE9E",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "steam_locomotive" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83D\uDE82",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "train2" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83D\uDE86",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "metro" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83D\uDE87",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "tram" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83D\uDE8A",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "station" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83D\uDE89",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "helicopter" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83D\uDE81",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "airplane_small", "small_airplane" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83D\uDEE9",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "airplane" ],
+    "category" : "TRAVEL",
+    "unicode" : "✈",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "airplane_departure" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83D\uDEEB",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "airplane_arriving" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83D\uDEEC",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "sailboat" ],
+    "category" : "TRAVEL",
+    "unicode" : "⛵",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "motorboat" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83D\uDEE5",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "speedboat" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83D\uDEA4",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "ferry" ],
+    "category" : "TRAVEL",
+    "unicode" : "⛴",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "cruise_ship", "passenger_ship" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83D\uDEF3",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "rocket" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83D\uDE80",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "satellite_orbital" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83D\uDEF0",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "seat" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83D\uDCBA",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "anchor" ],
+    "category" : "TRAVEL",
+    "unicode" : "⚓",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "construction" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83D\uDEA7",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "fuelpump" ],
+    "category" : "TRAVEL",
+    "unicode" : "⛽",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "busstop" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83D\uDE8F",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "vertical_traffic_light" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83D\uDEA6",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "traffic_light" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83D\uDEA5",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "checkered_flag" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83C\uDFC1",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "ship" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83D\uDEA2",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "ferris_wheel" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83C\uDFA1",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "roller_coaster" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83C\uDFA2",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "carousel_horse" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83C\uDFA0",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "construction_site", "building_construction" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83C\uDFD7",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "foggy" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83C\uDF01",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "tokyo_tower" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83D\uDDFC",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "factory" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83C\uDFED",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "fountain" ],
+    "category" : "TRAVEL",
+    "unicode" : "⛲",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "rice_scene" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83C\uDF91",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "mountain" ],
+    "category" : "TRAVEL",
+    "unicode" : "⛰",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "mountain_snow", "snow_capped_mountain" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83C\uDFD4",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "mount_fuji" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83D\uDDFB",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "volcano" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83C\uDF0B",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "japan" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83D\uDDFE",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "camping" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83C\uDFD5",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "tent" ],
+    "category" : "TRAVEL",
+    "unicode" : "⛺",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "park", "national_park" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83C\uDFDE",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "motorway" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83D\uDEE3",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "railway_track", "railroad_track" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83D\uDEE4",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "sunrise" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83C\uDF05",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "sunrise_over_mountains" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83C\uDF04",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "desert" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83C\uDFDC",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "beach", "beach_with_umbrella" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83C\uDFD6",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "island", "desert_island" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83C\uDFDD",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "city_sunset", "city_sunrise" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83C\uDF07",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "city_dusk" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83C\uDF06",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "cityscape" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83C\uDFD9",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "night_with_stars" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83C\uDF03",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "bridge_at_night" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83C\uDF09",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "milky_way" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83C\uDF0C",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "stars" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83C\uDF20",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "sparkler" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83C\uDF87",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "fireworks" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83C\uDF86",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "rainbow" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83C\uDF08",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "homes", "house_buildings" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83C\uDFD8",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "european_castle" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83C\uDFF0",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "japanese_castle" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83C\uDFEF",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "stadium" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83C\uDFDF",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "statue_of_liberty" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83D\uDDFD",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "house" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83C\uDFE0",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "house_with_garden" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83C\uDFE1",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "house_abandoned", "derelict_house_building" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83C\uDFDA",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "office" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83C\uDFE2",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "department_store" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83C\uDFEC",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "post_office" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83C\uDFE3",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "european_post_office" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83C\uDFE4",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "hospital" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83C\uDFE5",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "bank" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83C\uDFE6",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "hotel" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83C\uDFE8",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "convenience_store" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83C\uDFEA",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "school" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83C\uDFEB",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "love_hotel" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83C\uDFE9",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "wedding" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83D\uDC92",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "classical_building" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83C\uDFDB",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "church" ],
+    "category" : "TRAVEL",
+    "unicode" : "⛪",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "mosque" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83D\uDD4C",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "synagogue" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83D\uDD4D",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "kaaba" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83D\uDD4B",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "shinto_shrine" ],
+    "category" : "TRAVEL",
+    "unicode" : "⛩",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "scooter" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83D\uDEF4",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "motor_scooter", "motorbike" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83D\uDEF5",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "canoe", "kayak" ],
+    "category" : "TRAVEL",
+    "unicode" : "\uD83D\uDEF6",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "watch" ],
+    "category" : "OBJECTS",
+    "unicode" : "⌚",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "iphone" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDCF1",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "calling" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDCF2",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "computer" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDCBB",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "keyboard" ],
+    "category" : "OBJECTS",
+    "unicode" : "⌨",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "desktop", "desktop_computer" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDDA5",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "printer" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDDA8",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "mouse_three_button", "three_button_mouse" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDDB1",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "trackball" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDDB2",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "joystick" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDD79",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "compression" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDDDC",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "minidisc" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDCBD",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "floppy_disk" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDCBE",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "cd" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDCBF",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "dvd" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDCC0",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "vhs" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDCFC",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "camera" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDCF7",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "camera_with_flash" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDCF8",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "video_camera" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDCF9",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "movie_camera" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83C\uDFA5",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "projector", "film_projector" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDCFD",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "film_frames" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83C\uDF9E",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "telephone_receiver" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDCDE",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "telephone" ],
+    "category" : "OBJECTS",
+    "unicode" : "☎",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "pager" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDCDF",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "fax" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDCE0",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "tv" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDCFA",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "radio" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDCFB",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "microphone2", "studio_microphone" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83C\uDF99",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "level_slider" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83C\uDF9A",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "control_knobs" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83C\uDF9B",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "stopwatch" ],
+    "category" : "OBJECTS",
+    "unicode" : "⏱",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "timer", "timer_clock" ],
+    "category" : "OBJECTS",
+    "unicode" : "⏲",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "alarm_clock" ],
+    "category" : "OBJECTS",
+    "unicode" : "⏰",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "clock", "mantlepiece_clock" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDD70",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "hourglass_flowing_sand" ],
+    "category" : "OBJECTS",
+    "unicode" : "⏳",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "hourglass" ],
+    "category" : "OBJECTS",
+    "unicode" : "⌛",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "satellite" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDCE1",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "battery" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDD0B",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "electric_plug" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDD0C",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "bulb" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDCA1",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flashlight" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDD26",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "candle" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDD6F",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "wastebasket" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDDD1",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "oil", "oil_drum" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDEE2",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "money_with_wings" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDCB8",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "dollar" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDCB5",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "yen" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDCB4",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "euro" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDCB6",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "pound" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDCB7",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "moneybag" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDCB0",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "credit_card" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDCB3",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "gem" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDC8E",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "scales" ],
+    "category" : "OBJECTS",
+    "unicode" : "⚖",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "wrench" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDD27",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "hammer" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDD28",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "hammer_pick", "hammer_and_pick" ],
+    "category" : "OBJECTS",
+    "unicode" : "⚒",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "tools", "hammer_and_wrench" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDEE0",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "pick" ],
+    "category" : "OBJECTS",
+    "unicode" : "⛏",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "nut_and_bolt" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDD29",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "gear" ],
+    "category" : "OBJECTS",
+    "unicode" : "⚙",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "chains" ],
+    "category" : "OBJECTS",
+    "unicode" : "⛓",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "gun" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDD2B",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "bomb" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDCA3",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "knife" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDD2A",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "dagger", "dagger_knife" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDDE1",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "crossed_swords" ],
+    "category" : "OBJECTS",
+    "unicode" : "⚔",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "shield" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDEE1",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "smoking" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDEAC",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "skull_crossbones", "skull_and_crossbones" ],
+    "category" : "OBJECTS",
+    "unicode" : "☠",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "coffin" ],
+    "category" : "OBJECTS",
+    "unicode" : "⚰",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "urn", "funeral_urn" ],
+    "category" : "OBJECTS",
+    "unicode" : "⚱",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "amphora" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83C\uDFFA",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "crystal_ball" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDD2E",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "prayer_beads" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDCFF",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "barber" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDC88",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "alembic" ],
+    "category" : "OBJECTS",
+    "unicode" : "⚗",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "telescope" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDD2D",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "microscope" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDD2C",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "hole" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDD73",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "pill" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDC8A",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "syringe" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDC89",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "thermometer" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83C\uDF21",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "label" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83C\uDFF7",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "bookmark" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDD16",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "toilet" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDEBD",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "shower" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDEBF",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "bathtub" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDEC1",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "key" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDD11",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "key2", "old_key" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDDDD",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "couch", "couch_and_lamp" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDECB",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "sleeping_accommodation" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDECC",
+    "hasDiversity" : true
+  }, {
+    "aliases" : [ "bed" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDECF",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "door" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDEAA",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "bellhop", "bellhop_bell" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDECE",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "frame_photo", "frame_with_picture" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDDBC",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "map", "world_map" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDDFA",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "beach_umbrella", "umbrella_on_ground" ],
+    "category" : "OBJECTS",
+    "unicode" : "⛱",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "moyai" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDDFF",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "shopping_bags" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDECD",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "balloon" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83C\uDF88",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flags" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83C\uDF8F",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "ribbon" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83C\uDF80",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "gift" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83C\uDF81",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "confetti_ball" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83C\uDF8A",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "tada" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83C\uDF89",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "dolls" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83C\uDF8E",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "wind_chime" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83C\uDF90",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "crossed_flags" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83C\uDF8C",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "izakaya_lantern" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83C\uDFEE",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "envelope" ],
+    "category" : "OBJECTS",
+    "unicode" : "✉",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "envelope_with_arrow" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDCE9",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "incoming_envelope" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDCE8",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "e_mail", "email" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDCE7",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "love_letter" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDC8C",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "postbox" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDCEE",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "mailbox_closed" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDCEA",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "mailbox" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDCEB",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "mailbox_with_mail" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDCEC",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "mailbox_with_no_mail" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDCED",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "package" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDCE6",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "postal_horn" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDCEF",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "inbox_tray" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDCE5",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "outbox_tray" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDCE4",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "scroll" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDCDC",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "page_with_curl" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDCC3",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "bookmark_tabs" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDCD1",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "bar_chart" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDCCA",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "chart_with_upwards_trend" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDCC8",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "chart_with_downwards_trend" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDCC9",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "page_facing_up" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDCC4",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "date" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDCC5",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "calendar" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDCC6",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "calendar_spiral", "spiral_calendar_pad" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDDD3",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "card_index" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDCC7",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "card_box", "card_file_box" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDDC3",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "ballot_box", "ballot_box_with_ballot" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDDF3",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "file_cabinet" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDDC4",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "clipboard" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDCCB",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "notepad_spiral", "spiral_note_pad" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDDD2",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "file_folder" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDCC1",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "open_file_folder" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDCC2",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "dividers", "card_index_dividers" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDDC2",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "newspaper2", "rolled_up_newspaper" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDDDE",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "newspaper" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDCF0",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "notebook" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDCD3",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "closed_book" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDCD5",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "green_book" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDCD7",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "blue_book" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDCD8",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "orange_book" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDCD9",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "notebook_with_decorative_cover" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDCD4",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "ledger" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDCD2",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "books" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDCDA",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "book" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDCD6",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "link" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDD17",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "paperclip" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDCCE",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "paperclips", "linked_paperclips" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDD87",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "scissors" ],
+    "category" : "OBJECTS",
+    "unicode" : "✂",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "triangular_ruler" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDCD0",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "straight_ruler" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDCCF",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "pushpin" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDCCC",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "round_pushpin" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDCCD",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "triangular_flag_on_post" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDEA9",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_white" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83C\uDFF3",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_black" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83C\uDFF4",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "closed_lock_with_key" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDD10",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "lock" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDD12",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "unlock" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDD13",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "lock_with_ink_pen" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDD0F",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "pen_ballpoint", "lower_left_ballpoint_pen" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDD8A",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "pen_fountain", "lower_left_fountain_pen" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDD8B",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "black_nib" ],
+    "category" : "OBJECTS",
+    "unicode" : "✒",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "pencil" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDCDD",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "pencil2" ],
+    "category" : "OBJECTS",
+    "unicode" : "✏",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "crayon", "lower_left_crayon" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDD8D",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "paintbrush", "lower_left_paintbrush" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDD8C",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "mag" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDD0D",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "mag_right" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDD0E",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "shopping_cart", "shopping_trolley" ],
+    "category" : "OBJECTS",
+    "unicode" : "\uD83D\uDED2",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "100" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDCAF",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "1234" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDD22",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "heart" ],
+    "category" : "SYMBOLS",
+    "unicode" : "❤",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "yellow_heart" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDC9B",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "green_heart" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDC9A",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "blue_heart" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDC99",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "purple_heart" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDC9C",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "broken_heart" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDC94",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "heart_exclamation", "heavy_heart_exclamation_mark_ornament" ],
+    "category" : "SYMBOLS",
+    "unicode" : "❣",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "two_hearts" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDC95",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "revolving_hearts" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDC9E",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "heartbeat" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDC93",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "heartpulse" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDC97",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "sparkling_heart" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDC96",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "cupid" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDC98",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "gift_heart" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDC9D",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "heart_decoration" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDC9F",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "peace", "peace_symbol" ],
+    "category" : "SYMBOLS",
+    "unicode" : "☮",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "cross", "latin_cross" ],
+    "category" : "SYMBOLS",
+    "unicode" : "✝",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "star_and_crescent" ],
+    "category" : "SYMBOLS",
+    "unicode" : "☪",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "om_symbol" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDD49",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "wheel_of_dharma" ],
+    "category" : "SYMBOLS",
+    "unicode" : "☸",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "star_of_david" ],
+    "category" : "SYMBOLS",
+    "unicode" : "✡",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "six_pointed_star" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDD2F",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "menorah" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDD4E",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "yin_yang" ],
+    "category" : "SYMBOLS",
+    "unicode" : "☯",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "orthodox_cross" ],
+    "category" : "SYMBOLS",
+    "unicode" : "☦",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "place_of_worship", "worship_symbol" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDED0",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "ophiuchus" ],
+    "category" : "SYMBOLS",
+    "unicode" : "⛎",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "aries" ],
+    "category" : "SYMBOLS",
+    "unicode" : "♈",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "taurus" ],
+    "category" : "SYMBOLS",
+    "unicode" : "♉",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "gemini" ],
+    "category" : "SYMBOLS",
+    "unicode" : "♊",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "cancer" ],
+    "category" : "SYMBOLS",
+    "unicode" : "♋",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "leo" ],
+    "category" : "SYMBOLS",
+    "unicode" : "♌",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "virgo" ],
+    "category" : "SYMBOLS",
+    "unicode" : "♍",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "libra" ],
+    "category" : "SYMBOLS",
+    "unicode" : "♎",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "scorpius" ],
+    "category" : "SYMBOLS",
+    "unicode" : "♏",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "sagittarius" ],
+    "category" : "SYMBOLS",
+    "unicode" : "♐",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "capricorn" ],
+    "category" : "SYMBOLS",
+    "unicode" : "♑",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "aquarius" ],
+    "category" : "SYMBOLS",
+    "unicode" : "♒",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "pisces" ],
+    "category" : "SYMBOLS",
+    "unicode" : "♓",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "id" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83C\uDD94",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "atom", "atom_symbol" ],
+    "category" : "SYMBOLS",
+    "unicode" : "⚛",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "u7a7a" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83C\uDE33",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "u5272" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83C\uDE39",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "radioactive", "radioactive_sign" ],
+    "category" : "SYMBOLS",
+    "unicode" : "☢",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "biohazard", "biohazard_sign" ],
+    "category" : "SYMBOLS",
+    "unicode" : "☣",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "mobile_phone_off" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDCF4",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "vibration_mode" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDCF3",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "u6709" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83C\uDE36",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "u7121" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83C\uDE1A",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "u7533" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83C\uDE38",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "u55b6" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83C\uDE3A",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "u6708" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83C\uDE37",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "eight_pointed_black_star" ],
+    "category" : "SYMBOLS",
+    "unicode" : "✴",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "vs" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83C\uDD9A",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "accept" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83C\uDE51",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "white_flower" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDCAE",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "ideograph_advantage" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83C\uDE50",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "secret" ],
+    "category" : "SYMBOLS",
+    "unicode" : "㊙",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "congratulations" ],
+    "category" : "SYMBOLS",
+    "unicode" : "㊗",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "u5408" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83C\uDE34",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "u6e80" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83C\uDE35",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "u7981" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83C\uDE32",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "a" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83C\uDD70",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "b" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83C\uDD71",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "ab" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83C\uDD8E",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "cl" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83C\uDD91",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "o2" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83C\uDD7E",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "sos" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83C\uDD98",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "no_entry" ],
+    "category" : "SYMBOLS",
+    "unicode" : "⛔",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "name_badge" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDCDB",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "no_entry_sign" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDEAB",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "x" ],
+    "category" : "SYMBOLS",
+    "unicode" : "❌",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "o" ],
+    "category" : "SYMBOLS",
+    "unicode" : "⭕",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "anger" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDCA2",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "hotsprings" ],
+    "category" : "SYMBOLS",
+    "unicode" : "♨",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "no_pedestrians" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDEB7",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "do_not_litter" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDEAF",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "no_bicycles" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDEB3",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "non_potable_water" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDEB1",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "underage" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDD1E",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "no_mobile_phones" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDCF5",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "exclamation" ],
+    "category" : "SYMBOLS",
+    "unicode" : "❗",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "grey_exclamation" ],
+    "category" : "SYMBOLS",
+    "unicode" : "❕",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "question" ],
+    "category" : "SYMBOLS",
+    "unicode" : "❓",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "grey_question" ],
+    "category" : "SYMBOLS",
+    "unicode" : "❔",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "bangbang" ],
+    "category" : "SYMBOLS",
+    "unicode" : "‼",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "interrobang" ],
+    "category" : "SYMBOLS",
+    "unicode" : "⁉",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "low_brightness" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDD05",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "high_brightness" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDD06",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "trident" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDD31",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "fleur_de_lis" ],
+    "category" : "SYMBOLS",
+    "unicode" : "⚜",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "part_alternation_mark" ],
+    "category" : "SYMBOLS",
+    "unicode" : "〽",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "warning" ],
+    "category" : "SYMBOLS",
+    "unicode" : "⚠",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "children_crossing" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDEB8",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "beginner" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDD30",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "recycle" ],
+    "category" : "SYMBOLS",
+    "unicode" : "♻",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "u6307" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83C\uDE2F",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "chart" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDCB9",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "sparkle" ],
+    "category" : "SYMBOLS",
+    "unicode" : "❇",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "eight_spoked_asterisk" ],
+    "category" : "SYMBOLS",
+    "unicode" : "✳",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "negative_squared_cross_mark" ],
+    "category" : "SYMBOLS",
+    "unicode" : "❎",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "white_check_mark" ],
+    "category" : "SYMBOLS",
+    "unicode" : "✅",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "diamond_shape_with_a_dot_inside" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDCA0",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "cyclone" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83C\uDF00",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "loop" ],
+    "category" : "SYMBOLS",
+    "unicode" : "➿",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "globe_with_meridians" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83C\uDF10",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "m" ],
+    "category" : "SYMBOLS",
+    "unicode" : "Ⓜ",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "atm" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83C\uDFE7",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "sa" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83C\uDE02",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "passport_control" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDEC2",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "customs" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDEC3",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "baggage_claim" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDEC4",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "left_luggage" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDEC5",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "wheelchair" ],
+    "category" : "SYMBOLS",
+    "unicode" : "♿",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "no_smoking" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDEAD",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "wc" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDEBE",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "parking" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83C\uDD7F",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "potable_water" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDEB0",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "mens" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDEB9",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "womens" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDEBA",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "baby_symbol" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDEBC",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "restroom" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDEBB",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "put_litter_in_its_place" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDEAE",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "cinema" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83C\uDFA6",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "signal_strength" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDCF6",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "koko" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83C\uDE01",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "ng" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83C\uDD96",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "ok" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83C\uDD97",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "up" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83C\uDD99",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "cool" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83C\uDD92",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "new" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83C\uDD95",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "free" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83C\uDD93",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "zero" ],
+    "category" : "SYMBOLS",
+    "unicode" : "0⃣",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "one" ],
+    "category" : "SYMBOLS",
+    "unicode" : "1⃣",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "two" ],
+    "category" : "SYMBOLS",
+    "unicode" : "2⃣",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "three" ],
+    "category" : "SYMBOLS",
+    "unicode" : "3⃣",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "four" ],
+    "category" : "SYMBOLS",
+    "unicode" : "4⃣",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "five" ],
+    "category" : "SYMBOLS",
+    "unicode" : "5⃣",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "six" ],
+    "category" : "SYMBOLS",
+    "unicode" : "6⃣",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "seven" ],
+    "category" : "SYMBOLS",
+    "unicode" : "7⃣",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "eight" ],
+    "category" : "SYMBOLS",
+    "unicode" : "8⃣",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "nine" ],
+    "category" : "SYMBOLS",
+    "unicode" : "9⃣",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "keycap_ten" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDD1F",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "arrow_forward" ],
+    "category" : "SYMBOLS",
+    "unicode" : "▶",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "pause_button", "double_vertical_bar" ],
+    "category" : "SYMBOLS",
+    "unicode" : "⏸",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "play_pause" ],
+    "category" : "SYMBOLS",
+    "unicode" : "⏯",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "stop_button" ],
+    "category" : "SYMBOLS",
+    "unicode" : "⏹",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "record_button" ],
+    "category" : "SYMBOLS",
+    "unicode" : "⏺",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "track_next", "next_track" ],
+    "category" : "SYMBOLS",
+    "unicode" : "⏭",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "track_previous", "previous_track" ],
+    "category" : "SYMBOLS",
+    "unicode" : "⏮",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "fast_forward" ],
+    "category" : "SYMBOLS",
+    "unicode" : "⏩",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "rewind" ],
+    "category" : "SYMBOLS",
+    "unicode" : "⏪",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "twisted_rightwards_arrows" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDD00",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "repeat" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDD01",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "repeat_one" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDD02",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "arrow_backward" ],
+    "category" : "SYMBOLS",
+    "unicode" : "◀",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "arrow_up_small" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDD3C",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "arrow_down_small" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDD3D",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "arrow_double_up" ],
+    "category" : "SYMBOLS",
+    "unicode" : "⏫",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "arrow_double_down" ],
+    "category" : "SYMBOLS",
+    "unicode" : "⏬",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "arrow_right" ],
+    "category" : "SYMBOLS",
+    "unicode" : "➡",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "arrow_left" ],
+    "category" : "SYMBOLS",
+    "unicode" : "⬅",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "arrow_up" ],
+    "category" : "SYMBOLS",
+    "unicode" : "⬆",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "arrow_down" ],
+    "category" : "SYMBOLS",
+    "unicode" : "⬇",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "arrow_upper_right" ],
+    "category" : "SYMBOLS",
+    "unicode" : "↗",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "arrow_lower_right" ],
+    "category" : "SYMBOLS",
+    "unicode" : "↘",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "arrow_lower_left" ],
+    "category" : "SYMBOLS",
+    "unicode" : "↙",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "arrow_upper_left" ],
+    "category" : "SYMBOLS",
+    "unicode" : "↖",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "arrow_up_down" ],
+    "category" : "SYMBOLS",
+    "unicode" : "↕",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "left_right_arrow" ],
+    "category" : "SYMBOLS",
+    "unicode" : "↔",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "arrows_counterclockwise" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDD04",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "arrow_right_hook" ],
+    "category" : "SYMBOLS",
+    "unicode" : "↪",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "leftwards_arrow_with_hook" ],
+    "category" : "SYMBOLS",
+    "unicode" : "↩",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "arrow_heading_up" ],
+    "category" : "SYMBOLS",
+    "unicode" : "⤴",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "arrow_heading_down" ],
+    "category" : "SYMBOLS",
+    "unicode" : "⤵",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "hash" ],
+    "category" : "SYMBOLS",
+    "unicode" : "#⃣",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "asterisk", "keycap_asterisk" ],
+    "category" : "SYMBOLS",
+    "unicode" : "*⃣",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "information_source" ],
+    "category" : "SYMBOLS",
+    "unicode" : "ℹ",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "abc" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDD24",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "abcd" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDD21",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "capital_abcd" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDD20",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "symbols" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDD23",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "musical_note" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83C\uDFB5",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "notes" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83C\uDFB6",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "wavy_dash" ],
+    "category" : "SYMBOLS",
+    "unicode" : "〰",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "curly_loop" ],
+    "category" : "SYMBOLS",
+    "unicode" : "➰",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "heavy_check_mark" ],
+    "category" : "SYMBOLS",
+    "unicode" : "✔",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "arrows_clockwise" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDD03",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "heavy_plus_sign" ],
+    "category" : "SYMBOLS",
+    "unicode" : "➕",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "heavy_minus_sign" ],
+    "category" : "SYMBOLS",
+    "unicode" : "➖",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "heavy_division_sign" ],
+    "category" : "SYMBOLS",
+    "unicode" : "➗",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "heavy_multiplication_x" ],
+    "category" : "SYMBOLS",
+    "unicode" : "✖",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "heavy_dollar_sign" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDCB2",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "currency_exchange" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDCB1",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "copyright" ],
+    "category" : "SYMBOLS",
+    "unicode" : "©",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "registered" ],
+    "category" : "SYMBOLS",
+    "unicode" : "®",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "tm" ],
+    "category" : "SYMBOLS",
+    "unicode" : "™",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "end" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDD1A",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "back" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDD19",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "on" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDD1B",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "top" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDD1D",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "soon" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDD1C",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "ballot_box_with_check" ],
+    "category" : "SYMBOLS",
+    "unicode" : "☑",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "radio_button" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDD18",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "white_circle" ],
+    "category" : "SYMBOLS",
+    "unicode" : "⚪",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "black_circle" ],
+    "category" : "SYMBOLS",
+    "unicode" : "⚫",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "red_circle" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDD34",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "large_blue_circle" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDD35",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "small_orange_diamond" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDD38",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "small_blue_diamond" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDD39",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "large_orange_diamond" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDD36",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "large_blue_diamond" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDD37",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "small_red_triangle" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDD3A",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "black_small_square" ],
+    "category" : "SYMBOLS",
+    "unicode" : "▪",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "white_small_square" ],
+    "category" : "SYMBOLS",
+    "unicode" : "▫",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "black_large_square" ],
+    "category" : "SYMBOLS",
+    "unicode" : "⬛",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "white_large_square" ],
+    "category" : "SYMBOLS",
+    "unicode" : "⬜",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "small_red_triangle_down" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDD3B",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "black_medium_square" ],
+    "category" : "SYMBOLS",
+    "unicode" : "◼",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "white_medium_square" ],
+    "category" : "SYMBOLS",
+    "unicode" : "◻",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "black_medium_small_square" ],
+    "category" : "SYMBOLS",
+    "unicode" : "◾",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "white_medium_small_square" ],
+    "category" : "SYMBOLS",
+    "unicode" : "◽",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "black_square_button" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDD32",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "white_square_button" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDD33",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "speaker" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDD08",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "sound" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDD09",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "loud_sound" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDD0A",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "mute" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDD07",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "mega" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDCE3",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "loudspeaker" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDCE2",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "bell" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDD14",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "no_bell" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDD15",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "black_joker" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83C\uDCCF",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "mahjong" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83C\uDC04",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "spades" ],
+    "category" : "SYMBOLS",
+    "unicode" : "♠",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "clubs" ],
+    "category" : "SYMBOLS",
+    "unicode" : "♣",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "hearts" ],
+    "category" : "SYMBOLS",
+    "unicode" : "♥",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "diamonds" ],
+    "category" : "SYMBOLS",
+    "unicode" : "♦",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flower_playing_cards" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83C\uDFB4",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "thought_balloon" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDCAD",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "anger_right", "right_anger_bubble" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDDEF",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "speech_balloon" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDCAC",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "clock1" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDD50",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "clock2" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDD51",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "clock3" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDD52",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "clock4" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDD53",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "clock5" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDD54",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "clock6" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDD55",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "clock7" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDD56",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "clock8" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDD57",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "clock9" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDD58",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "clock10" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDD59",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "clock11" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDD5A",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "clock12" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDD5B",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "clock130" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDD5C",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "clock230" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDD5D",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "clock330" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDD5E",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "clock430" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDD5F",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "clock530" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDD60",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "clock630" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDD61",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "clock730" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDD62",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "clock830" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDD63",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "clock930" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDD64",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "clock1030" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDD65",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "clock1130" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDD66",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "clock1230" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDD67",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "eye_in_speech_bubble" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDC41‍\uD83D\uDDE8",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "speech_left", "left_speech_bubble" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDDE8",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "eject", "eject_symbol" ],
+    "category" : "SYMBOLS",
+    "unicode" : "⏏",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "black_heart" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDDA4",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "octagonal_sign", "stop_sign" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83D\uDED1",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "regional_indicator_z" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83C\uDDFF",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "regional_indicator_y" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83C\uDDFE",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "regional_indicator_x" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83C\uDDFD",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "regional_indicator_w" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83C\uDDFC",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "regional_indicator_v" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83C\uDDFB",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "regional_indicator_u" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83C\uDDFA",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "regional_indicator_t" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83C\uDDF9",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "regional_indicator_s" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83C\uDDF8",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "regional_indicator_r" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83C\uDDF7",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "regional_indicator_q" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83C\uDDF6",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "regional_indicator_p" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83C\uDDF5",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "regional_indicator_o" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83C\uDDF4",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "regional_indicator_n" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83C\uDDF3",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "regional_indicator_m" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83C\uDDF2",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "regional_indicator_l" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83C\uDDF1",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "regional_indicator_k" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83C\uDDF0",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "regional_indicator_j" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83C\uDDEF",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "regional_indicator_i" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83C\uDDEE",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "regional_indicator_h" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83C\uDDED",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "regional_indicator_g" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83C\uDDEC",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "regional_indicator_f" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83C\uDDEB",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "regional_indicator_e" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83C\uDDEA",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "regional_indicator_d" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83C\uDDE9",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "regional_indicator_c" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83C\uDDE8",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "regional_indicator_b" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83C\uDDE7",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "regional_indicator_a" ],
+    "category" : "SYMBOLS",
+    "unicode" : "\uD83C\uDDE6",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_ac" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDE6\uD83C\uDDE8",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_af" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDE6\uD83C\uDDEB",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_al" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDE6\uD83C\uDDF1",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_dz" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDE9\uD83C\uDDFF",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_ad" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDE6\uD83C\uDDE9",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_ao" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDE6\uD83C\uDDF4",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_ai" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDE6\uD83C\uDDEE",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_ag" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDE6\uD83C\uDDEC",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_ar" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDE6\uD83C\uDDF7",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_am" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDE6\uD83C\uDDF2",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_aw" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDE6\uD83C\uDDFC",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_au" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDE6\uD83C\uDDFA",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_at" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDE6\uD83C\uDDF9",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_az" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDE6\uD83C\uDDFF",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_bs" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDE7\uD83C\uDDF8",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_bh" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDE7\uD83C\uDDED",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_bd" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDE7\uD83C\uDDE9",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_bb" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDE7\uD83C\uDDE7",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_by" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDE7\uD83C\uDDFE",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_be" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDE7\uD83C\uDDEA",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_bz" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDE7\uD83C\uDDFF",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_bj" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDE7\uD83C\uDDEF",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_bm" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDE7\uD83C\uDDF2",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_bt" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDE7\uD83C\uDDF9",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_bo" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDE7\uD83C\uDDF4",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_ba" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDE7\uD83C\uDDE6",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_bw" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDE7\uD83C\uDDFC",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_br" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDE7\uD83C\uDDF7",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_bn" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDE7\uD83C\uDDF3",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_bg" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDE7\uD83C\uDDEC",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_bf" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDE7\uD83C\uDDEB",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_bi" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDE7\uD83C\uDDEE",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_cv" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDE8\uD83C\uDDFB",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_kh" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF0\uD83C\uDDED",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_cm" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDE8\uD83C\uDDF2",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_ca" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDE8\uD83C\uDDE6",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_ky" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF0\uD83C\uDDFE",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_cf" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDE8\uD83C\uDDEB",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_td" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF9\uD83C\uDDE9",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_cl" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDE8\uD83C\uDDF1",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_cn" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDE8\uD83C\uDDF3",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_co" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDE8\uD83C\uDDF4",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_km" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF0\uD83C\uDDF2",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_cg" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDE8\uD83C\uDDEC",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_cd" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDE8\uD83C\uDDE9",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_cr" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDE8\uD83C\uDDF7",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_hr" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDED\uD83C\uDDF7",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_cu" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDE8\uD83C\uDDFA",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_cy" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDE8\uD83C\uDDFE",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_cz" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDE8\uD83C\uDDFF",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_dk" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDE9\uD83C\uDDF0",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_dj" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDE9\uD83C\uDDEF",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_dm" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDE9\uD83C\uDDF2",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_do" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDE9\uD83C\uDDF4",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_ec" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDEA\uD83C\uDDE8",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_eg" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDEA\uD83C\uDDEC",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_sv" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF8\uD83C\uDDFB",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_gq" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDEC\uD83C\uDDF6",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_er" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDEA\uD83C\uDDF7",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_ee" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDEA\uD83C\uDDEA",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_et" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDEA\uD83C\uDDF9",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_fk" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDEB\uD83C\uDDF0",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_fo" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDEB\uD83C\uDDF4",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_fj" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDEB\uD83C\uDDEF",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_fi" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDEB\uD83C\uDDEE",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_fr" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDEB\uD83C\uDDF7",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_pf" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF5\uD83C\uDDEB",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_ga" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDEC\uD83C\uDDE6",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_gm" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDEC\uD83C\uDDF2",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_ge" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDEC\uD83C\uDDEA",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_de" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDE9\uD83C\uDDEA",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_gh" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDEC\uD83C\uDDED",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_gi" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDEC\uD83C\uDDEE",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_gr" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDEC\uD83C\uDDF7",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_gl" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDEC\uD83C\uDDF1",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_gd" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDEC\uD83C\uDDE9",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_gu" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDEC\uD83C\uDDFA",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_gt" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDEC\uD83C\uDDF9",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_gn" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDEC\uD83C\uDDF3",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_gw" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDEC\uD83C\uDDFC",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_gy" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDEC\uD83C\uDDFE",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_ht" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDED\uD83C\uDDF9",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_hn" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDED\uD83C\uDDF3",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_hk" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDED\uD83C\uDDF0",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_hu" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDED\uD83C\uDDFA",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_is" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDEE\uD83C\uDDF8",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_in" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDEE\uD83C\uDDF3",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_id" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDEE\uD83C\uDDE9",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_ir" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDEE\uD83C\uDDF7",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_iq" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDEE\uD83C\uDDF6",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_ie" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDEE\uD83C\uDDEA",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_il" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDEE\uD83C\uDDF1",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_it" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDEE\uD83C\uDDF9",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_ci" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDE8\uD83C\uDDEE",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_jm" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDEF\uD83C\uDDF2",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_jp" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDEF\uD83C\uDDF5",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_je" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDEF\uD83C\uDDEA",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_jo" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDEF\uD83C\uDDF4",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_kz" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF0\uD83C\uDDFF",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_ke" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF0\uD83C\uDDEA",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_ki" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF0\uD83C\uDDEE",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_xk" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDFD\uD83C\uDDF0",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_kw" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF0\uD83C\uDDFC",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_kg" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF0\uD83C\uDDEC",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_la" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF1\uD83C\uDDE6",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_lv" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF1\uD83C\uDDFB",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_lb" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF1\uD83C\uDDE7",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_ls" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF1\uD83C\uDDF8",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_lr" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF1\uD83C\uDDF7",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_ly" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF1\uD83C\uDDFE",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_li" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF1\uD83C\uDDEE",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_lt" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF1\uD83C\uDDF9",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_lu" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF1\uD83C\uDDFA",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_mo" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF2\uD83C\uDDF4",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_mk" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF2\uD83C\uDDF0",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_mg" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF2\uD83C\uDDEC",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_mw" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF2\uD83C\uDDFC",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_my" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF2\uD83C\uDDFE",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_mv" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF2\uD83C\uDDFB",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_ml" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF2\uD83C\uDDF1",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_mt" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF2\uD83C\uDDF9",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_mh" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF2\uD83C\uDDED",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_mr" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF2\uD83C\uDDF7",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_mu" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF2\uD83C\uDDFA",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_mx" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF2\uD83C\uDDFD",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_fm" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDEB\uD83C\uDDF2",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_md" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF2\uD83C\uDDE9",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_mc" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF2\uD83C\uDDE8",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_mn" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF2\uD83C\uDDF3",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_me" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF2\uD83C\uDDEA",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_ms" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF2\uD83C\uDDF8",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_ma" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF2\uD83C\uDDE6",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_mz" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF2\uD83C\uDDFF",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_mm" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF2\uD83C\uDDF2",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_na" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF3\uD83C\uDDE6",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_nr" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF3\uD83C\uDDF7",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_np" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF3\uD83C\uDDF5",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_nl" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF3\uD83C\uDDF1",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_nc" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF3\uD83C\uDDE8",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_nz" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF3\uD83C\uDDFF",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_ni" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF3\uD83C\uDDEE",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_ne" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF3\uD83C\uDDEA",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_ng" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF3\uD83C\uDDEC",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_nu" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF3\uD83C\uDDFA",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_kp" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF0\uD83C\uDDF5",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_no" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF3\uD83C\uDDF4",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_om" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF4\uD83C\uDDF2",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_pk" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF5\uD83C\uDDF0",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_pw" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF5\uD83C\uDDFC",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_ps" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF5\uD83C\uDDF8",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_pa" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF5\uD83C\uDDE6",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_pg" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF5\uD83C\uDDEC",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_py" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF5\uD83C\uDDFE",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_pe" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF5\uD83C\uDDEA",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_ph" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF5\uD83C\uDDED",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_pl" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF5\uD83C\uDDF1",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_pt" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF5\uD83C\uDDF9",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_pr" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF5\uD83C\uDDF7",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_qa" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF6\uD83C\uDDE6",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_ro" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF7\uD83C\uDDF4",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_ru" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF7\uD83C\uDDFA",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_rw" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF7\uD83C\uDDFC",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_sh" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF8\uD83C\uDDED",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_kn" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF0\uD83C\uDDF3",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_lc" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF1\uD83C\uDDE8",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_vc" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDFB\uD83C\uDDE8",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_ws" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDFC\uD83C\uDDF8",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_sm" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF8\uD83C\uDDF2",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_st" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF8\uD83C\uDDF9",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_sa" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF8\uD83C\uDDE6",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_sn" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF8\uD83C\uDDF3",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_rs" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF7\uD83C\uDDF8",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_sc" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF8\uD83C\uDDE8",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_sl" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF8\uD83C\uDDF1",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_sg" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF8\uD83C\uDDEC",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_sk" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF8\uD83C\uDDF0",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_si" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF8\uD83C\uDDEE",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_sb" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF8\uD83C\uDDE7",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_so" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF8\uD83C\uDDF4",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_za" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDFF\uD83C\uDDE6",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_kr" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF0\uD83C\uDDF7",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_es" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDEA\uD83C\uDDF8",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_lk" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF1\uD83C\uDDF0",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_sd" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF8\uD83C\uDDE9",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_sr" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF8\uD83C\uDDF7",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_sz" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF8\uD83C\uDDFF",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_se" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF8\uD83C\uDDEA",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_ch" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDE8\uD83C\uDDED",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_sy" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF8\uD83C\uDDFE",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_tw" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF9\uD83C\uDDFC",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_tj" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF9\uD83C\uDDEF",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_tz" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF9\uD83C\uDDFF",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_th" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF9\uD83C\uDDED",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_tl" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF9\uD83C\uDDF1",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_tg" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF9\uD83C\uDDEC",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_to" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF9\uD83C\uDDF4",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_tt" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF9\uD83C\uDDF9",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_tn" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF9\uD83C\uDDF3",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_tr" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF9\uD83C\uDDF7",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_tm" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF9\uD83C\uDDF2",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_tv" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF9\uD83C\uDDFB",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_ug" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDFA\uD83C\uDDEC",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_ua" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDFA\uD83C\uDDE6",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_ae" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDE6\uD83C\uDDEA",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_gb" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDEC\uD83C\uDDE7",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_us" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDFA\uD83C\uDDF8",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_vi" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDFB\uD83C\uDDEE",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_uy" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDFA\uD83C\uDDFE",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_uz" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDFA\uD83C\uDDFF",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_vu" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDFB\uD83C\uDDFA",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_va" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDFB\uD83C\uDDE6",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_ve" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDFB\uD83C\uDDEA",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_vn" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDFB\uD83C\uDDF3",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_wf" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDFC\uD83C\uDDEB",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_eh" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDEA\uD83C\uDDED",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_ye" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDFE\uD83C\uDDEA",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_zm" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDFF\uD83C\uDDF2",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_zw" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDFF\uD83C\uDDFC",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_re" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF7\uD83C\uDDEA",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_ax" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDE6\uD83C\uDDFD",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_ta" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF9\uD83C\uDDE6",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_io" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDEE\uD83C\uDDF4",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_bq" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDE7\uD83C\uDDF6",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_cx" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDE8\uD83C\uDDFD",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_cc" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDE8\uD83C\uDDE8",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_gg" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDEC\uD83C\uDDEC",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_im" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDEE\uD83C\uDDF2",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_yt" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDFE\uD83C\uDDF9",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_nf" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF3\uD83C\uDDEB",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_pn" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF5\uD83C\uDDF3",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_bl" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDE7\uD83C\uDDF1",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_pm" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF5\uD83C\uDDF2",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_gs" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDEC\uD83C\uDDF8",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_tk" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF9\uD83C\uDDF0",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_bv" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDE7\uD83C\uDDFB",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_hm" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDED\uD83C\uDDF2",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_sj" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF8\uD83C\uDDEF",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_um" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDFA\uD83C\uDDF2",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_ic" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDEE\uD83C\uDDE8",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_ea" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDEA\uD83C\uDDE6",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_cp" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDE8\uD83C\uDDF5",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_dg" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDE9\uD83C\uDDEC",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_as" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDE6\uD83C\uDDF8",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_aq" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDE6\uD83C\uDDF6",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_vg" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDFB\uD83C\uDDEC",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_ck" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDE8\uD83C\uDDF0",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_cw" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDE8\uD83C\uDDFC",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_eu" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDEA\uD83C\uDDFA",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_gf" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDEC\uD83C\uDDEB",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_tf" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF9\uD83C\uDDEB",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_gp" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDEC\uD83C\uDDF5",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_mq" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF2\uD83C\uDDF6",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_mp" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF2\uD83C\uDDF5",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_sx" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF8\uD83C\uDDFD",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_ss" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF8\uD83C\uDDF8",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_tc" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF9\uD83C\uDDE8",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "flag_mf" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDDF2\uD83C\uDDEB",
+    "hasDiversity" : false
+  }, {
+    "aliases" : [ "gay_pride_flag", "rainbow_flag" ],
+    "category" : "FLAGS",
+    "unicode" : "\uD83C\uDFF3️‍\uD83C\uDF08",
+    "hasDiversity" : false
+  } ]
+}
