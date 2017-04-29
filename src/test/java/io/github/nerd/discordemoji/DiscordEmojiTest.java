@@ -25,7 +25,7 @@ public class DiscordEmojiTest {
 	@Test
 	public void testDiversity() {
 		Emoji emoji = registry.getEmojisWithDiversity().get(0)
-				.withDiversity(EmojiDiversity.MEDIUM_SKIN);
+				.withDiversity(SkinTone.MEDIUM_SKIN);
 		System.out.println(emoji);
 	} // 🙌🏽 <- intellij doesn't display this nicely but it works promise
 
@@ -43,7 +43,7 @@ public class DiscordEmojiTest {
 
 	@Test
 	public void testRegistration() {
-		registry.registerEmoji(new DiscordEmoji(69, "memes", 420));
+		registry.registerEmoji(new CustomEmoji(69, "memes", 420));
 		assertTrue(registry.getEmojiByUnicode("<:memes:69>").isPresent());
 	}
 }
