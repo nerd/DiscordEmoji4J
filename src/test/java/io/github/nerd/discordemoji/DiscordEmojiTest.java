@@ -43,7 +43,7 @@ public class DiscordEmojiTest {
 
 	@Test
 	public void testRegistration() {
-		registry.registerEmoji(new DiscordEmoji(69, "memes"));
+		registry.registerEmoji(new DiscordEmoji(69, "memes", 420));
 		assertTrue(registry.getEmojiByUnicode("<:memes:69>").isPresent());
 	}
 }

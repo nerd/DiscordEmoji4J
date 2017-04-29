@@ -12,22 +12,26 @@ public class Emoji {
 	private String unicode;
 	private boolean hasDiversity;
 	private final EmojiDiversity diversity;
+	private final boolean isGlobal;
 
 	private Emoji() {
 		this.diversity = EmojiDiversity.NONE;
+		this.isGlobal = true;
 	}
 
 	protected Emoji(List<String> aliases,
-	              EmojiCategory category,
-	              String unicode,
-	              boolean hasDiversity,
-	              EmojiDiversity diversity) {
+	                EmojiCategory category,
+	                String unicode,
+	                boolean hasDiversity,
+	                EmojiDiversity diversity,
+	                boolean isGlobal) {
 
 		this.aliases = aliases;
 		this.category = category;
 		this.unicode = unicode;
 		this.hasDiversity = hasDiversity;
 		this.diversity = diversity;
+		this.isGlobal = true;
 	}
 
 	public List<String> getAliases() {
@@ -47,9 +51,13 @@ public class Emoji {
 	}
 
 	public Emoji withDiversity(EmojiDiversity diversity) {
-		if(!this.hasDiversity())
+		if (!this.hasDiversity())
 			return this;
-		else return new Emoji(aliases, category, unicode, hasDiversity, diversity);
+		else return new Emoji(aliases, category, unicode, hasDiversity, diversity, isGlobal);
+	}
+
+	public boolean isGlobal() {
+		return isGlobal;
 	}
 
 	public EmojiDiversity getDiversity() {
