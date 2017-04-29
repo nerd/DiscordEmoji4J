@@ -14,7 +14,8 @@ public enum EmojiCategory {
 	TRAVEL,
 	OBJECTS,
 	SYMBOLS,
-	FLAGS;
+	FLAGS,
+	OTHER;
 
 	@JsonCreator
 	public EmojiCategory forValue(String value) {
