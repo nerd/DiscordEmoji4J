@@ -14,7 +14,7 @@ public class DiscordEmojiTest {
 
 	@Test
 	public void testInitialization() {
-		assertFalse(registry.getEmojis().isEmpty());
+		assertFalse(EmojiRegistry.getGlobalEmojis().isEmpty());
 	} // success (i hope)
 
 	@Test
