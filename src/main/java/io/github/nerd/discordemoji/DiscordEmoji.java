@@ -12,7 +12,7 @@ public class DiscordEmoji extends Emoji {
 
 	public DiscordEmoji(long id, String name) {
 		super(new ArrayList<>(Collections.singletonList(name)),
-				EmojiCategory.OTHER, String.format("<:%s:%d>", name, id),
+				EmojiCategory.CUSTOM, String.format("<:%s:%s>", name, Long.toUnsignedString(id)),
 				false, EmojiDiversity.NONE);
 		this.id = id;
 	}
